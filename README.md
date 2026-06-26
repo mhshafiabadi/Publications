@@ -8,7 +8,7 @@ Rather than hosting full-text articles, this repository presents structured info
 
 ---
 
-## 🎯 Research Vision
+# 🎯 Research Vision
 
 My research aims to bridge fundamental research and real-world applications by developing intelligent, trustworthy, and scalable Artificial Intelligence solutions.
 
@@ -20,60 +20,70 @@ My primary research interests include:
 * Cybersecurity & Privacy
 * Graph Neural Networks
 * Smart Cities
-* Intelligent Decision Support Systems
-* AI in Higher Education
+* Smart Tourism
 * Healthcare AI
+* AI in Higher Education
+* Intelligent Decision Support Systems
 * Digital Transformation
 
 ---
 
-## 📂 Publications by Year
+# 📊 Publications by Year
 
-| Year | Publications |
-| ---- | -----------: |
-| 2026 |            2 |
-| 2025 |            — |
-| 2024 |            — |
-| 2023 |            — |
+| Year     | Publications |
+| -------- | -----------: |
+| **2026** |        **2** |
+| **2025** |        **1** |
 
----
-
-## 📑 Available Publications
-
-### 📅 2026
-
-| Title                                                                                                                      | Journal                       | Publisher        | Status    |
-| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- | --------- |
-| Privacy-Preserving Federated Learning for Interpretable Student At-Risk Prediction Across Schools                          | Scientific Reports            | Nature Portfolio | Published |
-| Epidemic Forecasting via Hybrid Deep Learning With Unified Visibility and Temporal Graphs Under Stochastic Noise Modelling | Healthcare Technology Letters | Wiley / IET      | Published |
-
-➡️ See the **2026** directory for publication details.
+**Total Publications:** **3**
 
 ---
 
-## 📖 Repository Organization
+# 📂 Repository Structure
 
-Each publication contains:
+Each publication has its own dedicated directory containing:
 
 * Publication information
-* Authors
-* Research problem
-* Proposed solution
-* Key contributions
+* Research overview
+* Research contributions
 * Keywords
+* Authors
 * Citation information
-* DOI and publisher link
+* Publisher / DOI link
 * Related research project (when available)
 
 ---
 
-## 🤝 Research Collaboration
+# 📅 Available Publications
 
-I welcome collaborations with researchers, universities, and industry partners in the fields of Artificial Intelligence, Industrial Internet of Things, Cybersecurity, Healthcare AI, Smart Cities, and Digital Transformation.
+## 2026
+
+| Title                                                                                                                      | Journal                       | Status    |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | --------- |
+| Privacy-Preserving Federated Learning for Interpretable Student At-Risk Prediction Across Schools                          | Scientific Reports            | Published |
+| Epidemic Forecasting via Hybrid Deep Learning With Unified Visibility and Temporal Graphs Under Stochastic Noise Modelling | Healthcare Technology Letters | Published |
+
+➡️ See the **2026/** directory for detailed information.
 
 ---
 
-## 👤 Author
+## 2025
+
+| Title                                                                                                                       | Journal                           | Status    |
+| --------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | --------- |
+| Investigating the Role of Management in Smart Tourism Technologies, Customer Satisfaction and Promoting Sustainable Tourism | Journal of Research in Management | Published |
+
+➡️ See the **2025/** directory for detailed information.
+
+---
+
+# 🤝 Collaboration
+
+I welcome collaborations with researchers, universities, and industry partners in the areas of Artificial Intelligence, Industrial Internet of Things, Smart Tourism, Healthcare AI, Cybersecurity, Digital Transformation, and Intelligent Systems.
+
+---
+
+# 👤 Author
 
 **Mohammad Hossein Shafiabadi**
 
@@ -81,7 +91,7 @@ Head of Faculty of Artificial Intelligence and Advanced Technologies
 
 Islamic Azad University
 
-AI Researcher | Business & AI Consultant
+AI Researcher • Business & AI Consultant
 
 🌐 https://shafiabadi.ir
 
